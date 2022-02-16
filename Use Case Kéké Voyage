@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T13:15:46.204Z" agent="5.0 (X11)" version="16.5.6" etag="vP0XWD4LEvGy5AtgHKpo" type="github"><diagram id="S6xiZZjZoJUJAG62xlxD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-16T14:58:07.776Z" agent="5.0 (X11)" etag="HrrcCCYdQ4bW9JrS3FJz" version="16.5.6" type="github">
+  <diagram id="S6xiZZjZoJUJAG62xlxD" name="Page-1">
+    <mxGraphModel dx="918" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fTUv1n_7wRnDmK2EH1gP-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fTUv1n_7wRnDmK2EH1gP-3" value="" style="swimlane;startSize=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="238" y="200" width="369" height="369" as="geometry">
+            <mxRectangle x="238" y="200" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTUv1n_7wRnDmK2EH1gP-8" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="fTUv1n_7wRnDmK2EH1gP-3">
+          <mxGeometry x="56" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTUv1n_7wRnDmK2EH1gP-11" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="fTUv1n_7wRnDmK2EH1gP-3">
+          <mxGeometry x="222" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTUv1n_7wRnDmK2EH1gP-7" value="Airline company" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="683" y="440" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fTUv1n_7wRnDmK2EH1gP-14" value="Kékés Voyages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
